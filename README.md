@@ -8,6 +8,8 @@
 - 📫 How to reach me: ... [Telegram](https://t.me/the_cyberghost)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like to work with Linux
+
+https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif
  
  ### :grinning: Thank You For Visiting my Profile.
  
