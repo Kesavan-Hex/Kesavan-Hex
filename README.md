@@ -10,5 +10,5 @@
 - ⚡ Fun fact: ... I like to work with Linux
  ### :grinning: Thank You For Visiting my Profile.
  :yellow_heart: :blue_heart: :heart: :orange_heart: :green_heart: :purple_heart:
+![tenor](https://user-images.githubusercontent.com/73026586/116538468-3390f280-a905-11eb-80b7-696faa6c2d83.gif)
 
-![git](https://user-images.githubusercontent.com/73026586/116504908-1b09e380-a8d7-11eb-8506-62b34a465f3a.gif)
