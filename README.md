@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Python Dev
 - 🤔 I’m looking for help with ...Android developement 
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Telegram](the_cyberghost)
+- 📫 How to reach me: ... [Telegram](https://t.me/the_cyberghost)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like to work with Linux
 
