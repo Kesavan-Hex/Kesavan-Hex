@@ -16,9 +16,4 @@
 ![tenor](https://user-images.githubusercontent.com/73026586/116538681-7b177e80-a905-11eb-8730-340be2d589d0.gif)
 
 
- :yellow_heart: :blue_heart: :heart: :orange_heart: :green_heart: :purple_heart:
-  :yellow_heart: :blue_heart: :heart: :orange_heart: :green_heart: :purple_heart:
-    :yellow_heart: :blue_heart: :heart: :orange_heart: :green_heart: :purple_heart:
-  :yellow_heart: :blue_heart: :heart: :orange_heart: :green_heart: :purple_heart:
- :yellow_heart: :blue_heart: :heart: :orange_heart: :green_heart: :purple_heart:
-
+ 
