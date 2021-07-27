@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ... SourceCode Computers :desktop_computer:
 - 🌱 I’m currently learning ... Python,Java
 - 👯 I’m looking to collaborate on ...Python and JS
-- 🤔 I’m looking for help with ...Android developement 
+- 🤔 I’m looking for help with ...Android developement and sh
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Telegram](https://t.me/the_cyberghost)
 - 😄 Pronouns: ... He/Him
