@@ -8,7 +8,7 @@
 - 📫 How to reach me: ... [Telegram](https://t.me/the_cyberghost)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like to work with Linux
--  <img src="https://github-readme-stats.vercel.app/api?username=Kesavan-Hex&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+-  <img src="https://github-readme-stats.vercel.app/api?username=kesavan-hex&show_icons=true&theme=monokai&count_private=true&show_owner=true&include_all_commits=true">
 
  ### :grinning: Thank You For Visiting my Profile.
  
