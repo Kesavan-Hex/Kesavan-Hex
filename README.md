@@ -9,7 +9,7 @@
 
  ## <b> About Me </b> :man:
 
-- 🔭 I’m currently working on ... SourceCoders Technology :desktop_computer:
+- 🔭 I’m currently working on ... SourceCoders Technology 	:artificial_satellite:
 - 🌱 I’m currently learning ... Python,Java
 - 👯 I’m looking to collaborate on ...Python and JS
 - 🤔 I’m looking for help with ...Android developement and shell scripting
