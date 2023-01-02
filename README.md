@@ -47,4 +47,4 @@
  ![snake gif](https://github.com/Kesavan-Hex/2023/blob/output/github-contribution-grid-snake.svg)
  
  ## <b>Github Trophy </b> 🥇
-[![trophy](https://github-profile-trophy.vercel.app/?username=kesavan-hex&theme=algolia)](https://github.com/kesavan-hex/github-profile-trophy&row=2&column=3)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kesavan-hex&theme=algolia&margin-w=30&margin-h=20)](https://github.com/kesavan-hex/github-profile-trophy&row=2&column=3)
