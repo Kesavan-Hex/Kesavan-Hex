@@ -19,10 +19,6 @@
 - 🤔 I’m looking for help with ...Android developement and shell scripting
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/Him
- 
- ## <b>Github Stats </b> :rocket:
-
-<a href="https://www.sourcecoders.in/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=kesavan-hex&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></a>
 
 
  
@@ -44,7 +40,6 @@
    ## <b> Thank You! </b> ❣️
 <p align="center"><img width="100" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
  
- ![snake gif](https://github.com/Kesavan-Hex/2023/blob/output/github-contribution-grid-snake.svg)
  
  ## <b>Github Trophy </b> 🥇
 [![trophy](https://github-profile-trophy.vercel.app/?username=kesavan-hex&theme=algolia&margin-w=30&margin-h=20)](https://github.com/kesavan-hex/github-profile-trophy&row=2&column=3)
