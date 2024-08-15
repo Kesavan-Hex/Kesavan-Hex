@@ -44,4 +44,4 @@ I'm a versatile developer with a focus on Android and Python development. I spec
 
 Thanks for checking out my profile! 😊
 
-![Thanks GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
