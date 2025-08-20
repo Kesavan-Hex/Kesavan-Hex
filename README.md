@@ -1,47 +1,67 @@
-### Hi there, I'm Kesavan! 👋
+# Hi, I'm Kesavan  
 
-![Hello GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+---
 
-I'm a versatile developer with a focus on Android and Python development. I specialize in Android ROMs, including working with device trees, kernels, and vendor files. I'm also a Flutter developer, creating cross-platform applications with beautiful UIs.
+## About Me  
+I’m a developer with expertise across **Android, Python, Rust, and Containers**.  
+I work on both **system-level engineering** (Android ROMs, kernels, low-level tooling) and **application development** (cross-platform apps, backend APIs, automation).  
 
-### 🔧 Technologies & Tools
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+I believe in writing clean, efficient, and maintainable code while focusing on performance and scalability.  
 
-![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+---
 
-![AOSP](https://img.shields.io/badge/AOSP-blue?style=for-the-badge)
-![CAF](https://img.shields.io/badge/CAF-blue?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-3178C6.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+## Core Skills  
 
-![SQLite](https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Android  
+- ROM building with **AOSP / CAF**  
+- Device trees, vendor blobs, HALs  
+- Kernel compilation, optimization, and debugging  
+- Familiar with Linux internals for Android development  
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vim](https://img.shields.io/badge/Vim-%23019736.svg?style=for-the-badge&logo=vim&logoColor=white)
+### Python  
+- Automation and scripting on Linux  
+- CLI tools and workflow automation  
+- REST APIs with Flask / FastAPI  
+- Data handling with SQLite / MySQL  
 
-### 🌱 What I'm Currently Learning
-- Advanced techniques in Flutter for cross-platform development
-- In-depth Android kernel optimization and customization
-- Enhanced Python scripting for automation and tool development
+### Rust  
+- Systems programming and CLI utilities  
+- Exploring FFI integrations and performance-sensitive tooling  
+- Interest in low-level runtime systems and container runtimes  
 
-### 📫 Get in Touch
-- **Email:** [Kesavan-G](mailto:kesavang091999@gmail.com)
-- **LinkedIn:** [Kesavan G](https://www.linkedin.com/in/kesavan-g-505b43293/)
-- **GitHub:** [Kesavan-G](https://github.com/kesavan-hex)
+### Containers & DevOps  
+- Docker and containerized deployments  
+- Familiarity with container runtimes (**containerd**)  
+- CI/CD pipelines (GitHub Actions, Jenkins)  
+- Linux-first workflow with shell scripting  
 
-### 📊 GitHub Stats
-![Kesavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kesavan-hex&show_icons=true&theme=radical)
+---
 
-### 💡 Fun Facts
-- I'm passionate about customizing Android devices at the system level, diving deep into kernels and ROMs.
-- Flutter's ability to create beautiful cross-platform apps excites me.
-- I enjoy solving problems with Python, especially when it comes to automating tasks on Linux.
+## Currently Learning  
+- Advanced Android kernel customization and debugging  
+- Microservice design with Python & Rust  
+- Container runtime integrations and low-level networking  
 
-Thanks for checking out my profile! 😊
+---
 
+## Projects  
+- **Bills2Go** – Multi-tenant billing system (Node.js + Flutter + MySQL)  
+- **BizzNet** – Business referral and networking platform  
+- **POS System** – Offline-first POS with admin and employee apps  
+- **Rust Tooling** – CLI utilities and container runtime experiments  
 
+---
+
+## GitHub Stats  
+
+![Kesavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kesavan-hex&show_icons=false&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kesavan-hex&layout=compact&theme=default)  
+
+---
+
+## Contact  
+- Email: **Kesavan-G**  
+- LinkedIn: [Kesavan G](https://www.linkedin.com/in/kesavan-g-505b43293/)  
+- GitHub: [Kesavan](https://github.com/kesavan-hex)  
+
+---
