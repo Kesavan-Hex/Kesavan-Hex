@@ -44,14 +44,6 @@ I believe in writing clean, efficient, and maintainable code while focusing on p
 
 ---
 
-## Projects  
-- **Bills2Go** – Multi-tenant billing system (Node.js + Flutter + MySQL)  
-- **BizzNet** – Business referral and networking platform  
-- **POS System** – Offline-first POS with admin and employee apps  
-- **Rust Tooling** – CLI utilities and container runtime experiments  
-
----
-
 ## GitHub Stats  
 
 ![Kesavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kesavan-hex&show_icons=false&theme=default)  
